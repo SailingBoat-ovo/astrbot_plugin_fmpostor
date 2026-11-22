@@ -1,0 +1,6 @@
+name: astrbot_plugin_fmpostor
+display_name: Fmpostor 服务端桥接
+desc: 在 QQ 群里查询 Fmpostor（Among Us 私服）的房间状态，订阅房间结束提醒。
+version: v1.0.0
+author: SailingBoat-ovo
+repo: https://github.com/SailingBoat-ovo/astrbot_plugin_fmpostor

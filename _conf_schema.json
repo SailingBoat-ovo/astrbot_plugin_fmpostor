@@ -1,0 +1,14 @@
+{
+  "server_url": {
+    "description": "Fmpostor 服务端地址（含面板路径前缀）",
+    "type": "string",
+    "hint": "例如 http://127.0.0.1:22023/webadmin 或 https://你的域名/webadmin",
+    "default": "http://127.0.0.1:22023/webadmin"
+  },
+  "bridge_token": {
+    "description": "桥接口令",
+    "type": "string",
+    "hint": "在 Fmpostor 面板「服务器选项 → QQ 群房间广播（AstrBot）」里复制",
+    "default": ""
+  }
+}
